@@ -6,10 +6,10 @@
 <h3 align="center">🔐 Web Developer | Pentester | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:email_anda@example.com">
+  <a href="mailto:giovano@gionano.my.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/username_anda">
+  <a href="https://instagram.com/varl._.giovn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -75,7 +75,8 @@ Saya adalah seorang **Web Developer** dan **Security Researcher** yang berfokus 
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gionano&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <!-- Menggunakan streak-stats.demolab.com yang lebih stabil -->
+  <img src="https://streak-stats.demolab.com?user=Gionano&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
 <div align="center">
