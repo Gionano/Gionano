@@ -1,7 +1,6 @@
 # Hi, I'm a Systems & Network Architect! 👋
 
 <p align="center">
-  <!-- Note: You will need to commit the header.svg to your repository alongside this README for it to display automatically, or host it online. -->
   <img src="header.svg" alt="Systems and Network Engineering Header" width="100%" />
 </p>
 
@@ -102,9 +101,7 @@ To continuously refine my systems engineering skills, I maintain a high-fidelity
 
 ### 📊 GitHub Analytics
 
-<!-- 
-IMPORTANT: Remember to replace "YOUR_GITHUB_USERNAME" in the URLs below with your actual GitHub username to load your real-time analytics cards!
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gionano&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&show_icons=true&locale=en" alt="GitHub Profile Stats" width="48%" />
   &nbsp;&nbsp;
