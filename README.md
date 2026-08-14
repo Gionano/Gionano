@@ -119,11 +119,11 @@ I am always keen to collaborate on secure networking initiatives, home lab desig
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://portfolio.gionano.my.id" target="_blank">
+  <a href="https://about.gionano.space" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-090D16?style=flat-square&logo=google-chrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:giovano@gionano.my.id">
+  <a href="mailto:intercelroxi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
