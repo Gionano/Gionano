@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/GxWLteGeAtAAAAAd/mie-ai-ai-mie.gif" alt="uwu" width="100%" />
+  <img src="https://media1.tenor.com/m/Onq1o3r0AdEAAAAC/lb-little-busters.gif" alt="uwu" width="100%" />
 </p>
 
 <h1 align="center">
