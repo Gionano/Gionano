@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  ꒰ა ☆ Haii~ I'm a Network & Systems Engineer! ☆ ໒꒱
+  ꒰ა ☆ I'm a Network & Systems Engineer! Wafuu~ ☆ ໒꒱
 </h1>
 
 <p align="center">
